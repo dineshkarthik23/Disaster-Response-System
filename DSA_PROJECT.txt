@@ -1,0 +1,71 @@
+Area of Occurrence of Disaster  (Root)
+│
+├── Decision and Coordination Authority (Top-Level)
+│   ├── Chief Coordinator (Overall Decision Making)
+│   └── Data Analytics & Situation Monitoring Unit
+│       |
+│       └── Data Analysis Team (predictive modeling, damage estimation)
+│
+├── Communication and Coordination Team
+│   ├── Liaison with Government Agencies (State Disaster Management)
+│   ├── Public Communication and Alerts (Evacuation warnings, shelter locations)
+│   └── Media Management (Press releases, updates)
+│
+├── *Medical Response Team (MRT)*
+│   ├── *Hospitals and Clinics*
+│   │   ├── *Hospital 1 (Critical Cases)* 
+│   │   │   ├── *Emergency Surgery Unit* (Life-threatening injuries like internal bleeding)
+│   │   │   ├── *Trauma and Fracture Care Unit* (Severe trauma, bone fractures)
+│   │   │   ├── *ICU and Critical Care* (Patients needing continuous monitoring, ventilators)
+│   │   │   ├── *Burn Care Unit* (For burns caused by fires due to gas leaks)
+│   │   │   └── *Ventilator/Respiratory Support Unit* (Patients trapped in debris needing respiratory aid)
+│   │   ├── *Hospital 2 (Non-Critical Cases)* 
+│   │   │   ├── *Orthopedic Unit* (Bone fractures)
+│   │   │   ├── *Wound Care and Infection Prevention* (For cuts, infections from debris)
+│   │   │   └── *Pediatric Unit* (Children’s care)
+│   │   └── *Mobile Clinics for On-site Assistance*
+│   │       ├── *First Aid and Triage Unit* (Prioritize critical injuries)
+│   │       └── *Basic Medical Care Unit* (Immediate wound care, shock treatment)
+│   └── *Specialized Emergency Units*
+│       ├── *Helicopter Airlift for Critical Patients* (Access to inaccessible areas)
+│       ├── *Field Triage Camps* (Set up temporary hospitals)
+│       └── *Medical Supply Distribution Team* (Coordinate medicine, oxygen, and critical supplies)
+│
+├── *Rescue and Evacuation Team (RET)*
+│   ├── *Search and Rescue Teams (SRTs)*
+│   │   ├── Team 1 - Zone A (Worst affected)
+│   │   │   ├── *Heavy Machinery and Debris Removal Unit* (Excavators, cranes)
+│   │   │   └── *Rescue Dogs and Drones* (Locate trapped individuals)
+│   │   ├── Team 2 - Zone B (Moderate impact)
+│   │   └── Team 3 - Zone C (Mild impact, final assessments)
+│   ├── Evacuation Logistics Unit
+│   │   ├── *Vehicle Allocation* (Buses, ambulances, helicopters)
+│   │   ├── *Alternate Route Planning* (For blocked roads)
+│   │   └── *Evacuation Prioritization* (Children, elderly, heavily injured, women(pregnant))
+│   └── *Shelter Operations Team (SOT)*
+│       ├── Shelter 1 (Max capacity: 500)
+│       ├── Shelter 2 (Max capacity: 450)
+│       ├── Shelter 3 (Max capacity: 400)
+│       ├── *Food, Water, and Sanitation Units*
+│       └── *NGO Support* (Local and international NGOs)
+│
+├── *Resource and Supply Management Team*
+│   ├── Critical Supply Tracking
+│   │   ├── Medical Equipment and Medicines
+│   │   ├── Food, Water, and Sanitation Kits
+│   │   └── Temporary Shelter Setup (Tents, beds, blankets)
+│   ├── Fuel and Transportation Logistics
+│   └── Equipment Maintenance (Generators, trucks, excavators)
+│
+├── *Fire and Emergency Services*
+│   ├── Fire Station 1 (Coordinates search in fire-related emergencies)
+│        ├── Fire Station  (Equipped with disaster-specific tools)
+│   ├── Rescue Operations Unit (Heavy-duty rescue vehicles)
+│   └── Collaboration with Medical Units (Transport injured to hospitals)
+│
+└── *Infrastructure and Support Team*
+    ├── Roads and Traffic Management
+    │   ├── Debris Clearance Crew
+    │   └── Alternate Route Planning for Evacuations
+    ├── Electricity and Water Restoration Team
+    └── Resource Redistribution Unit (Supplies, food, fuel allocation)

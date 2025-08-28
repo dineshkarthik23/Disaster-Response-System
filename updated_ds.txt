@@ -1,0 +1,32 @@
+hospitals": {
+        "Sultan Bathery Government Hospital": (11.6581863,76.2608618),
+        "Kalpetta Government Hospital": (11.6290861,76.0805684),
+        "Mananthavady Government Hospital": (11.8049378,75.9917999),
+        "Ambalavayal Community Health Centre": (11.6211201,76.2090782),
+        "Vythiri Taluk Hospital": (11.5513,76.0408),
+        "Pulpally Primary Health Centre": (11.8178225,76.1268195),
+    }
+    "Fire Stations": {
+        "Kalpetta Fire Station": (11.5987311,76.0778171),
+        "Sulthan bathery Fire Station": (11.6695959,76.2594375),
+        "Manathavady Fire Station": (11.8022415,76.028815)
+    }
+    "Shelters": {
+        "Mananthavady Shelter": (11.8071, 76.0048),
+        "Kalpetta Shelter": (11.6075, 76.0820),
+        "Sultan Bathery Shelter": (11.6628, 76.2700),
+        "Muttil Shelter": (11.6205, 76.0827),
+    },
+    "NGOs": {
+        "RASTA NGO": (11.676739,76.0853431),
+        "Peace village NGO": (11.6315621,76.0142707),
+        "NGO union wayanad": (11.614834,76.0817271),
+        "SEID wayanad": (11.6338706,76.2201673)	
+	"Adora (NGO)-Head Office": (11.6561488,76.2348848)
+	"VSET NGO": (11.5986471,76.070205)
+
+    },
+    "Administrative Departments": {
+        "Wayanad District Collectorate": (11.6261701,76.0879235),
+        "Sulthan Bathery Taluk Office": (11.6693828,76.259127),
+        "Kalpetta Municipality Office": (11.6180545,76.0815906).

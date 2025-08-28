@@ -1,0 +1,94 @@
+Hospitals:
+1.Government Hospital, Kainatty Kalpetta
+Kainatty, Kalpetta , Wayanad, Kerala
+max capacity: 250 beds
+
+2.Iqra Hospital Sultan Bathery
+Iqra Hospital Sultan Bathery Kottakunnu, Wayanad, Kerala
+max capacity: 100 beds
+
+3.KMHM MES Hospital Sultan Bathery
+KMHM MES Hospital Sultan Batheri Wayanad, Kerala
+max capacity: 100 beds
+
+4.Taluk Head Quarters Hospital, Sulthan Bathery
+Police Station Road, Fairland Colony, Sultan Bathery, Wayanad, Kerala
+max capacity: 100 beds
+
+5.Taluk Head Quarters Hospital, Vythiri
+THQH Vythiri, Wayanad, Kerala
+max capacity: 100 beds
+
+6.Wayanad Government Medical College, Mananthavady
+Mananthavady, Wayanad, Kerala.
+max capacity: 500 beds
+
+NGO's
+1.RASTA
+2.Peace Village
+3.Resource Centre
+4.NGO Union Wayanad
+5.VSET
+6.Neethi Vedhi
+7.Women's Welfare
+8.Adora (NGO)-Head Office
+9.Shreyas
+10.SEID Wayanad
+11.TGG Foundation Charitable Trust
+12.YUVA Social Movement
+
+Fire stations:
+1.Kalpetta
+2.Sultan Bathery
+3.Mananthavady
+
+distances(Hospitals):
+
+1.Government Hospital, Kainatty Kalpetta - Taluk Head Quarters Hospital, Vythiri: 4.66 km
+2.Government Hospital, Kainatty Kalpetta - Wayanad Government Medical College, Mananthavady: 11.00 km
+3.Iqra Hospital Sultan Bathery - KMHM MES Hospital Sultan Bathery: 0.94 km
+4.Iqra Hospital Sultan Bathery - Taluk Head Quarters Hospital, Sulthan Bathery: 0.70 km
+5.KMHM MES Hospital Sultan Bathery - Taluk Head Quarters Hospital, Sulthan Bathery: 0.44 km
+6.Taluk Head Quarters Hospital, Sulthan Bathery - Iqra Hospital Sultan Bathery: 0.70 km
+7.Taluk Head Quarters Hospital, Vythiri - Government Hospital, Kainatty Kalpetta: 4.66 km
+8.Taluk Head Quarters Hospital, Vythiri - Wayanad Government Medical College, Mananthavady: 9.83 km
+9.Wayanad Government Medical College, Mananthavady - Government Hospital, Kainatty Kalpetta: 11.00 km
+10.Wayanad Government Medical College, Mananthavady - Taluk Head Quarters Hospital, Vythiri: 9.83 km
+11.Wayanad Government Medical College, Mananthavady - Taluk Head Quarters Hospital, Vythiri: 9.83 km
+12.taluk Head Quarters Hospital, Vythiri - Wayanad Government Medical College, Mananthavady: 9.83 km
+13.Wayanad Government Medical College, Mananthavady - Government Hospital, Kainatty Kalpetta: 11.00 km
+
+distances: (NGO's)
+
+Rasta - Neethi Vedhi: 1.39 km
+Rasta - Shreyas: 6.09 km
+Rasta - YUVA: 8.97 km
+Peace Village - VSET: 4.70 km
+Peace Village - Adora: 5.13 km
+Peace Village - SEID Wayanad: 3.57 km
+Peace Village - TGG Foundation: 3.68 km
+Resource Centre - NGO Union Wayanad: 2.49 km
+Resource Centre - Women's Welfare: 3.45 km
+Resource Centre - Adora: 1.90 km
+Resource Centre - TGG Foundation: 1.70 km
+NGO Union Wayanad - VSET: 2.38 km
+NGO Union Wayanad - Women's Welfare: 1.06 km
+NGO Union Wayanad - Adora: 0.76 km
+NGO Union Wayanad - SEID Wayanad: 2.27 km
+NGO Union Wayanad - TGG Foundation: 2.50 km
+NGO Union Wayanad - YUVA: 3.04 km
+VSET - Women's Welfare: 2.62 km
+VSET - Adora: 2.44 km
+VSET - SEID Wayanad: 1.59 km
+VSET - TGG Foundation: 3.11 km
+VSET - YUVA: 2.73 km
+Women's Welfare - Adora: 1.82 km
+Women's Welfare - SEID Wayanad: 3.07 km
+Women's Welfare - YUVA: 2.21 km
+Adora - SEID Wayanad: 1.82 km
+Adora - TGG Foundation: 1.75 km
+Adora - YUVA: 3.68 km
+Shreyas - YUVA: 2.90 km
+SEID Wayanad - TGG Foundation: 1.61 km
+SEID Wayanad - YUVA: 4.07 km
+TGG Foundation - YUVA: 5.18 km
