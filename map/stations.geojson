@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "stations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 2628271865, "highway": "bus_stop", "public_transport": "platform", "bus": "yes" }, "geometry": { "type": "Point", "coordinates": [ 76.0052192, 11.7983524 ] } },
+{ "type": "Feature", "properties": { "osm_id": 2628272124, "highway": "bus_stop", "public_transport": "platform", "bus": "yes" }, "geometry": { "type": "Point", "coordinates": [ 76.0036686, 11.8017035 ] } },
+{ "type": "Feature", "properties": { "osm_id": 2628785327, "highway": "bus_stop", "public_transport": "platform", "bus": "yes" }, "geometry": { "type": "Point", "coordinates": [ 76.007231, 11.8036742 ] } }
+]
+}
